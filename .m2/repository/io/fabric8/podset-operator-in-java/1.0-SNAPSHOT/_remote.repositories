@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 07 18:52:17 UTC 2023
+podset-operator-in-java-1.0-SNAPSHOT-jar-with-dependencies.jar>=
+podset-operator-in-java-1.0-SNAPSHOT.pom>=
+podset-operator-in-java-1.0-SNAPSHOT.jar>=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 07 18:43:24 UTC 2023
+kubernetes-maven-plugin-1.13.1.jar>central=
+kubernetes-maven-plugin-1.13.1.pom>central=
